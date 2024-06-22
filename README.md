@@ -18,7 +18,7 @@ This project demonstrates real-time object detection using a pre-trained TensorF
 
 ## Installation
 
-1. Clone the repository:
+   Clone the repository:
 
    ```bash
    git clone https://github.com/finalLy134/obj-detect-tensorflow-test.git
