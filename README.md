@@ -21,7 +21,7 @@ This project demonstrates real-time object detection using a pre-trained TensorF
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/finalLy134/obj-detect-tensorflow-test.git
    cd ObjectDetection-TensorFlow-tkinter
    ```
 
