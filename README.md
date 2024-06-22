@@ -1,6 +1,6 @@
 # Object Detection with TensorFlow and tkinter
 
-This project demonstrates real-time object detection using a pre-trained TensorFlow model integrated into a tkinter-based graphical user interface (GUI).
+This project demonstrates real-time object detection using a TensorFlow model integrated into a tkinter-based graphical user interface (GUI).
 
 ## Features
 
